@@ -93,7 +93,7 @@ html[xmlns] .slides {
 	list-style: none outside none;
 }
 .flexslider .slides > li{
-	opacity:0.8
+	opacity:0.6
 }
 .flexslider .slides > li.active {
 	opacity:1

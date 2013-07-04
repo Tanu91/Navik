@@ -89,35 +89,26 @@
 
  <!--============================== content =================================-->
       
-      <div id="content"><div class="ic">More Website Templates @ TemplateMonster.com. November19, 2012!</div>
+      <div id="content">
     <div class="container">
 <h3>EXPORT</h3>
-<form action="query4.php" method="post">
-<input type="number" value="ITCHS Code" name ="code">
-     <div class="buttons-wrapper">  <a class="btn btn-1" data-type="submit">Go!!</a></div>
-<!--<input type="submit" value="Submit">-->
+<form action="query5.php" method="post">
+<input type="number" placeholder="ITCHS Code" name ="code">
+    <!-- <div class="buttons-wrapper">  <a class="btn btn-1" data-type="submit">Go!!</a></div>-->
+<input type="submit" value="Submit">
 </form>
 <form action="query2.php" method="post">
- <input type="text" value="Items" name="goods">
- <div class="buttons-wrapper">  <a class="btn btn-1" data-type="submit">Go!!</a></div>
-<!--<input type="submit" value="Submit">-->
+ <input type="text" placeholder="Items" name="goods">
+ <!--<div class="buttons-wrapper">  <a class="btn btn-1" data-type="submit">Go!!</a></div>-->
+<input type="submit" value="Submit">
 </form>
-          a<br>
- a<br>
- a<br>
- a<br>
- a<br>
- a<br>
- a<br>
- a<br>
- a<br>
-v
- a<br>
- a<br>
- a<br>
- a<br>
- a<br>
- a<br>
+
+          <br>
+<br>
+<br>
+<br>
+<br><br><br><br>
+ 
   </div>
     </div>
 
